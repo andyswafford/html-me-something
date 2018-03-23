@@ -60,6 +60,10 @@ h1 {
 	font-size: 2.5em;
 }
 
+#mytitle {
+    font-family: cursive
+}
+
 main h2 {
 	padding: 0.625em 0 0.625em 0.625em;
 }
@@ -91,6 +95,10 @@ nav ul li {
 
 p {
 	padding: 1.5em;
+}
+
+p.hometown {
+    font-style: italic
 }
 
 figure {
